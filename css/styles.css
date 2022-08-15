@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+    padding: 50px;   
+} 
+    h3{
+       margin-left: 50px; 
+    }
+
+button {
+    width: 100px;
+}
+
+.contenedor {
+    background-color: bisque;
+    width: 400px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.carro {
+    background-color: rgb(173, 149, 141);
+    width: 400px;
+    margin-left: 50px;
+    
+}
+
+/* .productoEnCarrito {
+    border-style: solid;
+    border-color: black;
+} */

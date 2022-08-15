@@ -1,0 +1,18 @@
+[   
+    {
+        "nombre":"Muzzarella",
+        "precio":"1000"
+    },
+    {
+        "nombre":"Napolitana",
+        "precio":"1200"
+    },
+    {
+        "nombre":"Provolone",
+        "precio":"1500"
+    },
+    {
+        "nombre":"Anchoas",
+        "precio":"1300"
+    }
+] 
